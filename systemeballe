@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Sandrineballe/test.git
-git branch -M Systemeballe
-git push -u origin Systemeballe
